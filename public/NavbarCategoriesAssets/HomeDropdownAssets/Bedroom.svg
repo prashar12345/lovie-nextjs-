@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="44" viewBox="0 0 58 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="crop" class="cls-1" width="58" height="44"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_13" data-name="Path 13" class="cls-1" d="M5.989,31.538,7.974,19.58a1.088,1.088,0,0,1,1.134-.925H47.885a1.148,1.148,0,0,1,1.134,1l1.843,11.886ZM32.5,14.384H24.279a4.375,4.375,0,0,1,4.112-2.918A4.132,4.132,0,0,1,32.5,14.384ZM14.5,4.348H42.143a.919.919,0,0,1,.922.712l.567,9.324H36.9a8.558,8.558,0,0,0-16.872,0H12.937L13.5,5.131A1,1,0,0,1,14.5,4.348Zm42.25,37.083L53.2,18.939a5.415,5.415,0,0,0-5.317-4.626l-.567-9.751V4.277A5.252,5.252,0,0,0,42.143.006H14.5A5.209,5.209,0,0,0,9.321,4.491v.142l-.638,9.609A5.429,5.429,0,0,0,3.792,18.8L.035,41.431a2.159,2.159,0,0,0,1.772,2.491h.354a2.189,2.189,0,0,0,2.127-1.779l1.063-6.335h46.22l.992,6.335a2.136,2.136,0,0,0,2.41,1.779A2.229,2.229,0,0,0,56.746,41.431Z"/>
+    </clipPath>
+  </defs>
+  <g id="矢量智能对象" class="cls-2">
+    <g id="Group_26" data-name="Group 26">
+      <g id="Group_25" data-name="Group 25" class="cls-3">
+        <rect id="Rectangle_13" data-name="Rectangle 13" width="69.652" height="56.89" transform="translate(-6.444 -6.464)"/>
+      </g>
+    </g>
+  </g>
+</svg>

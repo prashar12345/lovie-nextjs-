@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49" height="56" viewBox="0 0 49 56">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path-2);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="crop" width="49" height="56"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_46" data-name="Path 46" d="M35.662,6.878,24.5,18.666,13.338,6.879,16.926,0H32.074l3.587,6.878Zm-2.11,4.153a23.36,23.36,0,0,1,14.989,21.63C48.541,45.55,37.778,56,24.5,56S.459,45.55.459,32.661A23.36,23.36,0,0,1,15.448,11.029l2.847,3.13a19.526,19.526,0,0,0-13.828,18.5c0,10.743,8.968,19.451,20.033,19.451S44.535,43.4,44.535,32.658a19.527,19.527,0,0,0-13.83-18.5l2.847-3.13Z"/>
+    </clipPath>
+  </defs>
+  <g id="矢量智能对象" transform="translate(-4244 -323)">
+    <g id="矢量智能对象-2" data-name="矢量智能对象" class="cls-1" transform="translate(4244 323)">
+      <g id="Group_86" data-name="Group 86">
+        <g id="Group_85" data-name="Group 85" class="cls-2">
+          <rect id="Rectangle_43" data-name="Rectangle 43" width="60.977" height="68.727" transform="translate(-5.988 -6.364)"/>
+        </g>
+      </g>
+    </g>
+    <path id="Color_Overlay" data-name="Color Overlay" d="M4244.459,355.661a23.361,23.361,0,0,1,14.988-21.631l2.849,3.13a19.525,19.525,0,0,0-13.829,18.5c0,10.743,8.968,19.45,20.033,19.45s20.034-8.708,20.034-19.45a19.527,19.527,0,0,0-13.829-18.5l2.846-3.13h0a23.358,23.358,0,0,1,14.989,21.63c0,12.89-10.763,23.339-24.041,23.339S4244.459,368.55,4244.459,355.661Zm12.879-25.782,3.587-6.878h15.149l3.587,6.877L4268.5,341.666Z"/>
+  </g>
+</svg>
